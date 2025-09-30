@@ -1,1 +1,2 @@
 # eternityinfiniivision.co_redirect_ghp
+eivgame.com_redirect_ghp
